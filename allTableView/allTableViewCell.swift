@@ -2,7 +2,7 @@
 //  allTableViewCell.swift
 //  allTableView
 //
-//  Created by CH 001 on 29/09/22.
+//  Created by CH 002 on 29/09/22.
 //
 
 import UIKit
