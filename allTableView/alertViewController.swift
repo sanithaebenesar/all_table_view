@@ -17,7 +17,7 @@ class alertViewController: UIViewController {
     
     
     @IBAction func alertBUtton(_ sender: UIButton) {
-        let alert = UIAlertController(title: "Sorry!!!", message: "Tranaction failed.Try again later", preferredStyle: UIAlertController.Style.alert)
+        let alert = UIAlertController(title: "Sorry!", message: "Tranaction failed.Try again later", preferredStyle: UIAlertController.Style.alert)
         
         alert.addAction(UIAlertAction(title: "OK", style: UIAlertAction.Style.default, handler: nil))
         
